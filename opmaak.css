@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 body {
-  background-color: red;
+  background-color: lightblue;
 }
 
 h1 {
-  color: blue;
-  margin-left: 100px;
-} 
-</style>
-</head>
-<body>
+  color: navy;
+  margin-left: 20px;
+}
 
-<h1>tim website</h1>
-<p>page 2.</p>
-
-</body>
-</html>
