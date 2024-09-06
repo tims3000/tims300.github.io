@@ -7,3 +7,12 @@ h1 {
   margin-left: 20px;
 }
 
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
