@@ -1,7 +1,6 @@
 /* Style the header */
 .header {
-  background-image: url(download.png);
-    background-color: #ff8c00;
+    background-image: url(download.png);
     padding: 20px;
     text-align: center;
   }
