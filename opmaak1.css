@@ -1,6 +1,7 @@
 /* Style the header */
 .header {
     background-image: url(download.png);
+    background-repeat: no-repeat;
     padding: 20px;
     text-align: center;
   }
