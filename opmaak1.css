@@ -29,4 +29,5 @@
 
   body {
     background-image: url(achtergrond.jpeg);
+    background-image: no-repeat;
   }
