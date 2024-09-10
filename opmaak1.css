@@ -30,4 +30,6 @@
   body {
     background-image: url(achtergrond.jpeg);
     background-repeat: no-repeat;
+    height: 100px;
+    width: 500px;
   }
