@@ -1,28 +1,28 @@
 /* Style the header */
 .header {
-    background-color: #10ff08;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  /* Style the top navigation bar */
-  .topnav {
-    overflow: hidden;
-    background-color: #000b89;
-  }
-  
-  /* Style the topnav links */
-  .topnav a {
-    float: left;
-    display: block;
-    color: #66ff00;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change color on hover */
-  .topnav a:hover {
-    background-color: #8c00ff;
-    color: rgb(0, 208, 255);
-  }
+  background-color: #024950;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #0fa4af;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #964734;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #afdde5;
+  color: 0fa4af;
+}
