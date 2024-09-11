@@ -1,6 +1,6 @@
 /* Style the header */
 .header {
-  background-color: #026670;
+  background-color: #9fedd7;
   padding: 20px;
   text-align: center;
 }
@@ -31,8 +31,12 @@ h1 {
   color: #439f76;
 }
 
+p  {
+  color: #439f76;
+}
+
 body{
-  background-color: #9fedd7;
+  background-color: #026670;
 }
 
 body {
