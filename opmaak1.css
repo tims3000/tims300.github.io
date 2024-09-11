@@ -1,6 +1,6 @@
 /* Style the header */
 .header {
-  background-color: #024950;
+  background-color: #9fedd7;
   padding: 20px;
   text-align: center;
 }
@@ -8,14 +8,14 @@
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #0fa4af;
+  background-color: #fef9c7;
 }
 
 /* Style the topnav links */
 .topnav a {
   float: left;
   display: block;
-  color: #622313;
+  color: #439f76;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -23,10 +23,10 @@
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: #afdde5;
-  color: 0fa4af;
+  background-color: #fce181;
+  color: #439f76;
 }
 
 h1 {
-  color: #622313;
+  color: #439f76;
 }
