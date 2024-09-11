@@ -43,9 +43,8 @@ body {
   margin: 0;
 }
 
-/* Style the footer */
 .footer {
-  background-color: #fce181;
-  padding: 10px;
+  background-color: #fef9c7;
   text-align: center;
+  padding: 10px;
 }
