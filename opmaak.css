@@ -25,3 +25,7 @@ li a:hover {
 body{
   background-color: #026670;
 }
+
+body {
+  margin: 0;
+}
