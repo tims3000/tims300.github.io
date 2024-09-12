@@ -32,8 +32,8 @@ h1 {
 }
 
 h2{
-  float: center;
   color: #439f76;
+  text-align: center;
 }
 
 p  {
