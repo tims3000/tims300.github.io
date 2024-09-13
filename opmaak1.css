@@ -68,6 +68,12 @@ body {
   }
 }
 
+ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
 .footer {
   background-color: #fef9c7;
   text-align: center;
