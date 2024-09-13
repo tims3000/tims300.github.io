@@ -68,7 +68,7 @@ body {
   }
 }
 
-#download.png {
+.download.png {
   width: 400px;
   background-color: #333;
   color: white;
