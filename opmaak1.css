@@ -9,6 +9,9 @@
 .topnav {
   overflow: hidden;
   background-color: #fef9c7;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
 
 /* Style the topnav links */
@@ -66,12 +69,6 @@ body {
   .column {
     width: 100%;
   }
-}
-
-ul {
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
 }
 
 .footer {
