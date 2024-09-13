@@ -68,17 +68,6 @@ body {
   }
 }
 
-.right {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  width: 400px;
-  position: fixed;
-  top: 200px;
-  left: 300px;
-}
-
 .footer {
   background-color: #fef9c7;
   text-align: center;
