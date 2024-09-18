@@ -87,3 +87,36 @@ div.gallery img {
   width: 100%;
   height: auto;
 }
+
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  width: 400px;
+  position: fixed;
+  top: 500px;
+  left: 800px;
+}
+
+.middle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  width: 400px;
+  position: fixed;
+  top: 500px;
+  left: 600px;
+}
+
+.left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  width: 400px;
+  position: fixed;
+  top: 500px;
+  left: 400px;
+}
