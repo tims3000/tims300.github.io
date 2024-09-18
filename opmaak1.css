@@ -92,3 +92,9 @@ div.gallery img {
 * {
   box-sizing: border-box;
 }
+
+.responsive {
+  padding: 0 6px;
+  float: right;
+  width: 33.33333%;
+}
