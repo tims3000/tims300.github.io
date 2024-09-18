@@ -76,6 +76,9 @@ body {
   text-align: center;
   padding: 10px;
   margin-bottom: 0px;
+  position: static;
+  top: 1000px;
+  left: 0px;
 }
 
 div.gallery {
