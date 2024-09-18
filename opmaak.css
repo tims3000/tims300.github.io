@@ -131,3 +131,12 @@ div.gallery img {
   float: left;
   width: 33.33333%;
 }
+
+.binary-bonanza{
+    width: 200px;
+    padding: 10px;
+    position: static;
+    top: 500px;
+    left: 500px;
+}
+    
