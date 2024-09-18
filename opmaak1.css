@@ -77,35 +77,14 @@ body {
   padding: 10px;
 }
 
-.right {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  width: 400px;
-  position: static;
-  top: 500px;
-  left: 800px;
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
 
-.middle {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  width: 400px;
-  position: static;
-  top: 500px;
-  left: 600px;
-}
-
-.middle {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  width: 400px;
-  position: static;
-  top: 500px;
-  left: 400px;
+div.gallery img {
+  width: 100%;
+  height: auto;
 }
