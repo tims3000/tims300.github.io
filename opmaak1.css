@@ -87,3 +87,14 @@ body {
   top: 500px;
   left: 1000px;
 }
+
+.middle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  width: 400px;
+  position: static;
+  top: 500px;
+  left: 600px;
+}
