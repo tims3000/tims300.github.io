@@ -76,3 +76,14 @@ body {
   text-align: center;
   padding: 10px;
 }
+
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  width: 400px;
+  position: fixed;
+  top: 500px;
+  left: 600px;
+}
