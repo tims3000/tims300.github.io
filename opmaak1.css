@@ -51,6 +51,46 @@ body {
   margin: 0;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fef9c7;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #439f76;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #fce181;
+}
+
+.footer {
+  background-color: #fef9c7;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 0px;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* Create three equal columns that float next to each other */
 .column {
   float: left;
@@ -69,13 +109,6 @@ body {
   .column {
     width: 100%;
   }
-}
-
-.footer {
-  background-color: #fef9c7;
-  text-align: center;
-  padding: 10px;
-  margin-bottom: 0px;
 }
 
 div.gallery {
@@ -97,10 +130,4 @@ div.gallery img {
   padding: 0 6px;
   float: left;
   width: 33.33333%;
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
 }
