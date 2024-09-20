@@ -1,20 +1,20 @@
-/* Style the header */
+/* De style van de header */
 .header {
   background-color: #9fedd7;
   padding: 20px;
   text-align: center;
 }
 
-/* Style the top navigation bar */
+/* De style van de navigation bar */
 .topnav {
   overflow: hidden;
   background-color: #fef9c7;
-  position: -webkit-sticky; /* Safari */
+  position: -webkit-sticky; /* De navigation bar blijft boven als je naar beneden scrollt*/
   position: sticky;
   top: 0;
 }
 
-/* Style the topnav links */
+/* De style van de tkest in de navigation bar */
 .topnav a {
   float: left;
   display: block;
@@ -24,48 +24,56 @@
   text-decoration: none;
 }
 
-/* Change color on hover */
+/* De style van de hover van de navigation bar */
 .topnav a:hover {
   background-color: #fce181;
   color: #439f76;
 }
 
+/* De kleur van de tekst in de header */
 h1 {
   color: #439f76;
 }
 
+/* De kleur van de tekst net onder de navigation bar*/
 h2{
   color: #439f76;
   text-align: center;
 }
 
+/* De kleur van de tekst */
 p  {
   color: #439f76;
 }
 
+/* De achtergrond kleur */
 body{
   background-color: #026670;
 }
 
+/* Zorgt dat er geen ruimte tussen de rand en de navigation bar zit */
 body {
   margin: 0;
 }
 
+/* De style van de navigation bar */
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #fef9c7;
-  position: -webkit-sticky; /* Safari */
+  position: -webkit-sticky; /* De navigation bar blijft boven als je naar beneden scrollt */
   position: sticky;
   top: 0;
 }
 
+/* De tekst komt links in de naviagtion bar te staan*/
 li {
   float: left;
 }
 
+/* De style van de tekst in de navigation bar*/
 li a {
   display: block;
   color: #439f76;
@@ -74,10 +82,12 @@ li a {
   text-decoration: none;
 }
 
+/* De kleur van de hover bij de navigation bar */
 li a:hover {
   background-color: #fce181;
 }
 
+/* De style van de footer onderaan de tekst */
 .footer {
   background-color: #fef9c7;
   text-align: center;
@@ -85,53 +95,56 @@ li a:hover {
   margin-bottom: 0px;
 }
 
+/* Zorgt dat er mooie ruimte tussen stukken tekst zit */
 .clearfix:after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Create three equal columns that float next to each other */
+/* Zorgt voor 3 gelijke colums */
 .column {
   float: left;
   width: 33.33%;
 }
 
-/* Clear floats after the columns */
+/* Zorgt voor een mooie ruimte de colums */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
+/* zorgt dat als je op een telefoon kijkt de colums onder elkaar komen bij een scherm met (600px beerdt of minder) */
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
 }
 
+/* Zorgt dat de foto's naast elkaar komen te zitten */
 div.gallery {
   margin: 50px;
   float: left;
   width: 400px;
 }
 
+/* Zorgt voor de grote van de plaatjes bij elkaar */
 div.gallery img {
   width: 100%;
   height: auto;
 }
 
-* {
-  box-sizing: border-box;
-}
 
+
+/* Zorgt voor de style van de plaatjes */
 .responsive {
   padding: 0 6px;
   float: left;
   width: 33.33333%;
 }
 
+/* De style van het spelletjes binary-bonanza */
 .binary-bonanza{
     position: static;
     top: 1000px;
