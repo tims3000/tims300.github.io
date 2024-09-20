@@ -39,6 +39,7 @@ h1 {
 h2{
   color: #439f76;
   text-align: center;
+  font-size: 100px;
 }
 
 /* De kleur van de tekst */
@@ -157,10 +158,11 @@ div.gallery img {
 h3{
   color: #439f76;
   text-align: center;
-  font-size: 40px;
+  font-size: 60px;
 }
 
 h4{
   color: #439f76;
   text-align: center;
+  font-size: 100px;
 }
