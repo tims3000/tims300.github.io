@@ -142,6 +142,7 @@ div.gallery img {
   width: 33.33333%;
 }
 
+/* Zorgt dat de plaatjes naast elkaar komen */
 * {
   box-sizing: border-box;
 }
