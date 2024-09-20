@@ -154,7 +154,12 @@ div.gallery img {
     left: 1000px;
 }
    
-.h3{
+h3{
+  color: #439f76;
+  text-align: center;
+}
+
+h4{
   color: #439f76;
   text-align: center;
 }
