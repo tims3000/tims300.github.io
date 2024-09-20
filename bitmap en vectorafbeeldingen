@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>tims2000</title>
+        <link rel="stylesheet" href="opmaak.css">
+    </head>
+    <body>
+        <ul>
+            <li><a class="active" href="index.html">Home</a></li>
+            <li><a href="binairstelsel.html">Binairstelsel</a></li>
+            <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+            <li><a href="compressie.html">Compressie</a></li>
+            <li><a href="bitmap en vectorafbeeldingen">bitmap en vectorafbeeldingen</a></li>
+          </ul>
+
+          <div class="clearfix"></div>
+
+          <div class="footer">
+            <p>Dit is het einde van de pagina</p>
+          </div>
+
+    </body>
+</html>
