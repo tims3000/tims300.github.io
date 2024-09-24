@@ -47,6 +47,11 @@ p  {
   color: #447500;
 }
 
+/* De kleur van de tekst */
+h5  {
+  color: #439f76;
+}
+
 /* De achtergrond kleur */
 body{
   background-color: #bc4c01;
