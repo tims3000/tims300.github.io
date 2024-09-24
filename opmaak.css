@@ -108,6 +108,7 @@ li a:hover {
 .column {
   float: left;
   width: 33.33%;
+  padding: 10px;
 }
 
 /* Zorgt voor een mooie ruimte de colums */
@@ -115,7 +116,6 @@ li a:hover {
   content: "";
   display: table;
   clear: both;
-  margin: 50px;
 }
 
 /* zorgt dat als je op een telefoon kijkt de colums onder elkaar komen bij een scherm met (600px beerdt of minder) */
