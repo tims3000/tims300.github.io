@@ -168,3 +168,11 @@ h4{
   text-align: center;
   font-size: 60px;
 }
+
+.binair1{
+width: 200px;
+padding: 10px;
+position: static;
+top: 50px;
+left: 300px;
+}
