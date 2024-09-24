@@ -170,5 +170,6 @@ h4{
 }
 
 .binair1{
-float: right
+  top: 10px;
+  left: 300px;
 }
