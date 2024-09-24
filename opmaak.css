@@ -170,8 +170,5 @@ h4{
 }
 
 .binair1{
-padding: 10px;
-position: static;
-top: 100px;
-left: 300px;
+float: right
 }
