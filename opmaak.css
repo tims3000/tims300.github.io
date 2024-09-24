@@ -37,18 +37,13 @@ h1 {
 
 /* De kleur van de tekst net onder de navigation bar*/
 h2{
-  color: #00d2d2;
+  color: #439f76;
   text-align: center;
   font-size: 60px;
 }
 
 /* De kleur van de tekst */
 p  {
-  color: #00d2d2;
-}
-
-/* De kleur van de tekst */
-h5  {
   color: #439f76;
 }
 
@@ -161,13 +156,13 @@ div.gallery img {
 }
    
 h3{
-  color: #00d2d2;
+  color: #439f76;
   text-align: center;
   font-size: 40px;
 }
 
 h4{
-  color: #00d2d2;
+  color: #439f76;
   text-align: center;
   font-size: 60px;
 }
