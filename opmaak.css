@@ -47,6 +47,11 @@ p  {
   color: #439f76;
 }
 
+/* De kleur van de tekst */
+.p1  {
+  color: #447500;
+}
+
 /* De achtergrond kleur */
 body{
   background-color: #bc4c01;
@@ -156,13 +161,13 @@ div.gallery img {
 }
    
 h3{
-  color: #439f76;
+  color: #447500;
   text-align: center;
   font-size: 40px;
 }
 
 h4{
-  color: #439f76;
+  color: #447500;
   text-align: center;
   font-size: 60px;
 }
