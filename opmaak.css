@@ -115,6 +115,7 @@ li a:hover {
   content: "";
   display: table;
   clear: both;
+  margin: 50px;
 }
 
 /* zorgt dat als je op een telefoon kijkt de colums onder elkaar komen bij een scherm met (600px beerdt of minder) */
@@ -147,13 +148,6 @@ div.gallery img {
 /* Zorgt dat de plaatjes naast elkaar komen */
 * {
   box-sizing: border-box;
-}
-
-/* zorgt dat als je op een telefoon kijkt de colums onder elkaar komen bij een scherm met (600px beerdt of minder) */
-@media screen and (max-width: 600px) {
-  .gallery {
-    width: 100%;
-  }
 }
 
 /* De style van het spelletjes binary-bonanza */
