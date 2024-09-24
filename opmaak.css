@@ -149,6 +149,13 @@ div.gallery img {
   box-sizing: border-box;
 }
 
+/* zorgt dat als je op een telefoon kijkt de colums onder elkaar komen bij een scherm met (600px beerdt of minder) */
+@media screen and (max-width: 600px) {
+  .gallery {
+    width: 100%;
+  }
+}
+
 /* De style van het spelletjes binary-bonanza */
 .binary-bonanza{
     position: static;
