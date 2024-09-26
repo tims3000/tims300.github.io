@@ -56,7 +56,8 @@ p  {
   border-radius: 25px;
   background: #fef9c7;
   width: auto;
-  height: auto;  
+  height: auto; 
+  margin: 20px; 
 }
 
 /* De achtergrond kleur */
