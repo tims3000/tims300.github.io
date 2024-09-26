@@ -42,7 +42,9 @@ h2{
   font-size: 40px;
   border-width: 5x;
   border-color: #FF6347;
-  border-style: solid;
+  border-style: double;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 h3{
