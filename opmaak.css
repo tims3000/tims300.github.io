@@ -18,7 +18,7 @@
 .topnav a {
   float: left;
   display: block;
-  color: #800000;
+  color: #FF7F50;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -27,31 +27,31 @@
 /* De style van de hover van de navigation bar */
 .topnav a:hover {
   background-color: #fce181;
-  color: #800000;
+  color: #FF7F50;
 }
 
 /* De kleur van de tekst in de header */
 h1 {
-  color: #800000;
+  color: #FF7F50;
 }
 
 /* De kleur van de tekst net onder de navigation bar*/
 h2{
-  color: #800000;
+  color: #FF7F50;
   text-align: center;
   font-size: 60px;
 }
 
 /* De kleur van de tekst */
 p  {
-  color: #800000;
+  color: #FF7F50;
   font-size: 20px;
   padding: 20px;
 }
 
 /* De achtergrond kleur */
 body{
-  background-color: #FF7F50;
+  background-color: #B0C4DE;
 }
 
 /* Zorgt dat er geen ruimte tussen de rand en de navigation bar zit */
@@ -79,7 +79,7 @@ li {
 /* De style van de tekst in de navigation bar*/
 li a {
   display: block;
-  color: #800000;
+  color: #FF7F50;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -159,13 +159,13 @@ div.gallery img {
 }
    
 h3{
-  color: #800000;
+  color: #FF7F50;
   text-align: center;
   font-size: 40px;
 }
 
 h4{
-  color: #800000;
+  color: #FF7F50;
   text-align: center;
   font-size: 60px;
 }
@@ -200,6 +200,6 @@ h4{
 
 /* De kleur van de tekst */
 pre  {
-  color: #800000;
+  color: #FF7F50;
   font-size: 20px;
 }
