@@ -26,8 +26,8 @@
 
 /* De style van de hover van de navigation bar */
 .topnav a:hover {
-  background-color: #d02305;
-  color: #fef9c7;
+  background-color: #fef9c7;
+  color: #FF6347;
 }
 
 /* De kleur van de tekst in de header */
