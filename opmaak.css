@@ -182,15 +182,7 @@ h4{
   padding: 20px;
 }
 
-.kleurmodellen1{
-  padding: 20px;
-}
-
-.kleurmodellen2{
-  padding: 20px;
-}
-
-.kleurmodellen3{
+.kleurmodellen{
   padding: 20px;
 }
 
@@ -205,5 +197,9 @@ pre  {
 }
 
 .kleurmodellen{
+  padding: 20px;
+}
+
+.bv{
   padding: 20px;
 }
