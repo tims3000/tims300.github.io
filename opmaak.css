@@ -40,9 +40,9 @@ h2{
   color: #fef9c7;
   text-align: center;
   font-size: 40px;
-  border-width: 10px;
+  border-width: 5x;
   border-color: #FF6347;
-  border-style: dashed;
+  border-style: solid;
 }
 
 h3{
