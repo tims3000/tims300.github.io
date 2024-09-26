@@ -98,7 +98,8 @@ li a {
 
 /* De kleur van de hover bij de navigation bar */
 li a:hover {
-  background-color: #d02305;
+  background-color: #fef9c7;
+  color: #FF6347;
 }
 
 /* De style van de footer onderaan de tekst */
