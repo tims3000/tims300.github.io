@@ -8,7 +8,7 @@
 /* De style van de navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #fef9c7;
+  background-color: #590000;
   position: -webkit-sticky; /* De navigation bar blijft boven als je naar beneden scrollt*/
   position: sticky;
   top: 0;
@@ -51,7 +51,7 @@ p  {
 
 /* De achtergrond kleur */
 body{
-  background-color: #590000;
+  background-color: #fef9c7;
 }
 
 /* Zorgt dat er geen ruimte tussen de rand en de navigation bar zit */
@@ -65,7 +65,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #fef9c7;
+  background-color: #590000;
   position: -webkit-sticky; /* De navigation bar blijft boven als je naar beneden scrollt */
   position: sticky;
   top: 0;
@@ -92,7 +92,7 @@ li a:hover {
 
 /* De style van de footer onderaan de tekst */
 .footer {
-  background-color: #fef9c7;
+  background-color: #590000;
   text-align: center;
   padding: 10px;
   margin-bottom: 0px;
