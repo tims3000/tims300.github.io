@@ -39,7 +39,7 @@ h1 {
 h2{
   color: #FF6347;
   text-align: center;
-  font-size: 60px;
+  font-size: 40px;
 }
 
 /* De kleur van de tekst */
@@ -47,6 +47,7 @@ p  {
   color: #FF6347;
   font-size: 20px;
   padding: 20px;
+  background-color: #fce181;
 }
 
 /* De achtergrond kleur */
@@ -156,18 +157,6 @@ div.gallery img {
     position: static;
     top: 1000px;
     left: 1000px;
-}
-   
-h3{
-  color: #FF6347;
-  text-align: center;
-  font-size: 40px;
-}
-
-h4{
-  color: #FF6347;
-  text-align: center;
-  font-size: 60px;
 }
 
 .binair1{
