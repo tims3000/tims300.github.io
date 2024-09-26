@@ -8,7 +8,7 @@
 /* De style van de navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #fef9c7;
+  background-color: #FF6347;
   position: -webkit-sticky; /* De navigation bar blijft boven als je naar beneden scrollt*/
   position: sticky;
   top: 0;
@@ -18,7 +18,7 @@
 .topnav a {
   float: left;
   display: block;
-  color: #FF6347;
+  color: #fef9c7;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -26,24 +26,24 @@
 
 /* De style van de hover van de navigation bar */
 .topnav a:hover {
-  background-color: #fce181;
-  color: #FF6347;
+  background-color: #FF6347;
+  color: #fef9c7;
 }
 
 /* De kleur van de tekst in de header */
 h1 {
-  color: #FF6347;
+  color: #fef9c7;
 }
 
 /* De kleur van de tekst net onder de navigation bar*/
 h2{
-  color: #FF6347;
+  color: #fef9c7;
   text-align: center;
   font-size: 40px;
 }
 
 h3{
-  color: #FF6347;
+  color: #fef9c7;
   text-align: center;
   font-size: 60px;
 }
@@ -76,7 +76,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #fef9c7;
+  background-color: #FF6347;
   position: -webkit-sticky; /* De navigation bar blijft boven als je naar beneden scrollt */
   position: sticky;
   top: 0;
@@ -90,7 +90,7 @@ li {
 /* De style van de tekst in de navigation bar*/
 li a {
   display: block;
-  color: #FF6347;
+  color: #fef9c7;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -98,12 +98,12 @@ li a {
 
 /* De kleur van de hover bij de navigation bar */
 li a:hover {
-  background-color: #fce181;
+  background-color: #FF6347;
 }
 
 /* De style van de footer onderaan de tekst */
 .footer {
-  background-color: #fef9c7;
+  background-color: #FF6347;
   text-align: center;
   padding: 10px;
   margin-bottom: 0px;
@@ -191,7 +191,7 @@ div.gallery img {
 
 /* De kleur van de tekst */
 pre  {
-  color: #FF6347;
+  color: #fef9c7;
   font-size: 20px;
 }
 
