@@ -52,8 +52,11 @@ h3{
 p  {
   color: #FF6347;
   font-size: 20px;
-  padding: 20px;
-  background-color: #fef9c7;
+  border-radius: 25px;
+  background: #fef9c7;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
 }
 
 /* De achtergrond kleur */
