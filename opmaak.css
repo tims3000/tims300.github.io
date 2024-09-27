@@ -183,26 +183,29 @@ div.gallery img {
     left: 1000px;
     padding: 20px;
     position: static;
-    margin-left: auto;
-    margin-right: auto;
+    left: 50%;
+    margin-right: -50%;
 }
 
 .binair1{
   padding: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  position: static;
+  left: 50%;
+  margin-right: -50%;
 }
 
 .videobinair{
   padding: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  position: static;
+  left: 50%;
+  margin-right: -50%;
 }
 
 .kleurmodellen{
   padding: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  position: static;
+  left: 50%;
+  margin-right: -50%;
 }
 
 .div1 {
@@ -214,18 +217,21 @@ pre  {
   color: #fef9c7;
   font-size: 20px;
   font-family: Arial;
-  margin-left: auto;
-  margin-right: auto;
+  position: static;
+  left: 50%;
+  margin-right: -50%;
 }
 
 .bv{
   padding: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  position: static;
+  left: 50%;
+  margin-right: -50%;
 }
 
 .compressie{
   padding: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  position: static;
+  left: 50%;
+  margin-right: -50%;
 }
