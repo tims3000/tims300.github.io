@@ -39,13 +39,13 @@ h1 {
   text-align: center;
 }
 
-/* De kleur van de tekst net onder de navigation bar*/
+/* Dit is de style van de kleinere tiles op de pagina's */
 h2{
   color: #fef9c7;
   text-align: center;
   font-size: 40px;
 }
-
+/* Dit is de style van de grote tiles op de pagina's */
 h3{
   color: #fef9c7;
   text-align: center;
@@ -187,20 +187,7 @@ div.gallery img {
     margin-right: auto;
 }
 
-.binair1{
-  padding: 20px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.kleurmodellen{
-  padding: 20px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
+/* De ompaak van de gekleurde balken */
 .div1 {
   height:50px;width:100%;
 }
@@ -212,21 +199,8 @@ pre  {
   font-family: Arial;
 }
 
+/* De opmaak van de plaatjes en de filmpjes */
 .bv{
-  padding: 20px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.compressie{
-  padding: 20px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.algemeneinformatie{
   padding: 20px;
   display: block;
   margin-left: auto;
