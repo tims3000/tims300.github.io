@@ -182,6 +182,9 @@ div.gallery img {
     top: 1000px;
     left: 1000px;
     padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .binair1{
@@ -191,12 +194,11 @@ div.gallery img {
   margin-right: auto;
 }
 
-.videobinair{
-  padding: 20px;
-}
-
 .kleurmodellen{
   padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .div1 {
@@ -212,8 +214,14 @@ pre  {
 
 .bv{
   padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .compressie{
   padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
