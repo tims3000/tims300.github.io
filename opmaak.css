@@ -3,6 +3,7 @@
   background-color: #9fedd7;
   padding: 20px;
   text-align: center;
+  color: #fef9c7;
 }
 
 /* De style van de navigation bar */
@@ -29,6 +30,8 @@
 .topnav a:hover {
   background-color: #fef9c7;
   color: #FF6347;
+  text-decoration: underline;
+  text-decoration-color: #FF6347;
 }
 
 /* De kleur van de tekst in de header */
@@ -107,6 +110,8 @@ li a {
 li a:hover {
   background-color: #fef9c7;
   color: #FF6347;
+  text-decoration: underline;
+  text-decoration-color: #FF6347;
 }
 
 /* De style van de footer onderaan de tekst */
