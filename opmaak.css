@@ -182,22 +182,27 @@ div.gallery img {
     top: 1000px;
     left: 1000px;
     padding: 20px;
-    float: center;
+    position: static;
+    top: 0px;
+    left: 50%;
 }
 
 .binair1{
   padding: 20px;
-  float: center;
+  top: 0px;
+  left: 50%;
 }
 
 .videobinair{
   padding: 20px;
-  float: center;
+  top: 0px;
+  left: 50%;
 }
 
 .kleurmodellen{
   padding: 20px;
-  float: center;
+  top: 0px;
+  left: 50%;
 }
 
 .div1 {
@@ -209,15 +214,18 @@ pre  {
   color: #fef9c7;
   font-size: 20px;
   font-family: Arial;
-  float: center;
+  top: 0px;
+  left: 50%;
 }
 
 .bv{
   padding: 20px;
-  float: center;
+  top: 0px;
+  left: 50%;
 }
 
 .compressie{
   padding: 20px;
-  float: center;
+  top: 0px;
+  left: 50%;
 }
