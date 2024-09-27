@@ -183,25 +183,25 @@ div.gallery img {
     left: 1000px;
     padding: 20px;
     position: static;
-    top: 0px;
+    top: 0%;
     left: 50%;
 }
 
 .binair1{
   padding: 20px;
-  top: 0px;
+  top: 0%;
   left: 50%;
 }
 
 .videobinair{
   padding: 20px;
-  top: 0px;
+  top: 0%;
   left: 50%;
 }
 
 .kleurmodellen{
   padding: 20px;
-  top: 0px;
+  top: 0%;
   left: 50%;
 }
 
@@ -214,18 +214,18 @@ pre  {
   color: #fef9c7;
   font-size: 20px;
   font-family: Arial;
-  top: 0px;
+  top: 0%;
   left: 50%;
 }
 
 .bv{
   padding: 20px;
-  top: 0px;
+  top: 0%;
   left: 50%;
 }
 
 .compressie{
   padding: 20px;
-  top: 0px;
+  top: 0%;
   left: 50%;
 }
