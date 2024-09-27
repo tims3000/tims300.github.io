@@ -21,7 +21,8 @@
   color: #fef9c7;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: #fef9c7;
 }
 
 /* De style van de hover van de navigation bar */
@@ -98,7 +99,8 @@ li a {
   color: #fef9c7;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: #fef9c7;
 }
 
 /* De kleur van de hover bij de navigation bar */
