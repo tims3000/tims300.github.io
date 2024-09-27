@@ -186,6 +186,10 @@ div.gallery img {
 
 .binair1{
   padding: 20px;
+  position: static;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
 }
 
 .videobinair{
