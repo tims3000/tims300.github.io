@@ -36,6 +36,7 @@
 /* De kleur van de tekst in de header */
 h1 {
   color: #fef9c7;
+  text-align: center;
 }
 
 /* De kleur van de tekst net onder de navigation bar*/
@@ -66,6 +67,7 @@ p  {
   width: auto;
   height: auto; 
   margin: 20px; 
+  text-align: center;
 }
 
 /* De achtergrond kleur */
@@ -183,18 +185,22 @@ div.gallery img {
 
 .binair1{
   padding: 20px;
+  float: middle;
 }
 
 .videobinair{
   padding: 20px;
+  float: middle;
 }
 
 .binary-bonanza{
   padding: 20px;
+  float: middle;
 }
 
 .kleurmodellen{
   padding: 20px;
+  float: middle;
 }
 
 .div1 {
@@ -206,12 +212,15 @@ pre  {
   color: #fef9c7;
   font-size: 20px;
   font-family: Arial;
+  float: middle;
 }
 
 .bv{
   padding: 20px;
+  float: middle;
 }
 
 .compressie{
   padding: 20px;
+  float: middle;
 }
