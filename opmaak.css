@@ -186,6 +186,9 @@ div.gallery img {
 
 .binair1{
   padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .videobinair{
