@@ -181,6 +181,8 @@ div.gallery img {
     position: static;
     top: 1000px;
     left: 1000px;
+    padding: 20px;
+    float: center;
 }
 
 .binair1{
@@ -189,11 +191,6 @@ div.gallery img {
 }
 
 .videobinair{
-  padding: 20px;
-  float: center;
-}
-
-.binary-bonanza{
   padding: 20px;
   float: center;
 }
